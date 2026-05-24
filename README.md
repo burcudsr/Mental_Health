@@ -3,7 +3,7 @@
 This project focuses on predicting mental health conditions using machine learning, utilizing data from the **Kaggle Playground Series - Season 4, Episode 11**. The model aims to assist in understanding patterns related to mental well-being in professional and personal environments.
 
 ### 🚀 Live Demo
-Explore the interactive prediction model here: https://huggingface.co/spaces/bdaser/Mental_Health
+Explore the interactive prediction model here: **[Mental Health Prediction App](https://huggingface.co/spaces/bdaser/Mental_Health)** 
 
 ### 📊 Dataset & Preprocessing
 The dataset provides a multifaceted view of mental health indicators. To ensure the model processes these diverse inputs effectively, the following steps were taken:
